@@ -1,0 +1,5 @@
+{
+  "name": "FinGuard AI",
+  "description": "AI-powered message analysis to detect financial scams and fraudulent requests.",
+  "requestFramePermissions": []
+}
